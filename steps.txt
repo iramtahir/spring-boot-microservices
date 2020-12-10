@@ -1,0 +1,53 @@
+Eureka Discovery Service - A Quick Start
+- Startup Eureka Service Discovery
+Cards/Accunts Microservice
+- Cards Microservice - Create new Spring Boot Project
+- Enable Spring Discovery Cloud Client
+- Create Cards Rest Controller
+- Access Cards Web Service Endpoint via Eureka Discovery Service
+
+Zuul API Gateway - A Quick Start
+- Introduction to Zuul API Gateway
+- Create a ZUUL API Gateway Project
+-  Access Microservices via API Gateway
+
+Zuul as a Load Balancer - A Quick Start
+- Load Balancer - Introduction
+- Starting Up More Microservices
+- Trying How Load Balancer Works
+
+H2 In-Memory Database
+- H2 Database Console Overview
+- Adding Support for the H2 Database
+
+Enable Spring Security on Microservices
+
+Microservices Communication
+- Feign Web Service Client - Introduction
+- Enable Feign in Spring Boot Project
+- Create Feign Client
+- Using Feign Client
+- Trying How Feign Client Works
+
+Spring Cloud Config Server - Git Backend
+- Introduction to Spring Cloud Config Server
+- Create Your Own Config Server
+- Create Private GitHub Repository
+- Configure Config Server to Access Private GitHub Repository
+- Adding Properties File to Git Repository
+- Configure Users Microservice to be a Client of Config Server
+- Make Zuul Gateway a Client of Config Server
+
+Spring Boot Actuator - A Quick Start
+-  Introduction to Spring Boot Actuator
+-  Add Spring Boot Actuator to API Gateway
+- Trying How It Works
+-Enable Actuator for Users Microservice
+
+Using MySQL Instead of In-Memory
+
+
+Distributed Tracing with Sleuth and Zipkin
+- . Introduction to Distributed Tracing with Sleuth and Zipkin
+- Add Spring Cloud Sleuth to Users Microservice
+- Checking Trace ID and Span ID in a Console
